@@ -1,0 +1,18 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+.vscode/
+# STM32CubeIDE generated and machine-local files
+.metadata/
+.settings/
+Debug/
+Release/
+*.launch
+.mxproject
+*.elf
+*.o
+*.d
+*.map
+*.list
